@@ -1,5 +1,6 @@
 # scFrac
 Using a SVR method to deconvolute the cell fraction in a mixture sample using single cell seq data
+![image](https://user-images.githubusercontent.com/69139997/140094678-e12e4e6e-2287-4cbb-acad-7b3582a5c077.png)
 
 # install:
 devtools::install_github(“shenxiaotianCNS/scFrac”)
