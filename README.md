@@ -62,3 +62,8 @@ devtools::install_github(“shenxiaotianCNS/scFrac”)
 	TCGA-2Y-A9H1-01A 0.08198760 0.9149265 0.0030859354
 	TCGA-BC-A10Y-01A 0.09793974 0.8926296 0.0094306161
 	TCGA-K7-AAU7-01A 0.10658258 0.8874751 0.0059422883
+	
+# release
+## 0.1.0 
+only SVR was added,
+the elastic network regression and xgboost regression will be added soon 
