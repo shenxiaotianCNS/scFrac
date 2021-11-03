@@ -1,0 +1,17 @@
+Package: scFrac
+Type: Package
+Title: running the SVR method to deconvolute the cell component in a
+        mixture expression set using single cell seq set
+Version: 0.1.0
+Author: xiaotian shen
+Maintainer: The package maintainer <sxt14301050178@gmail.com>
+Description: this package using Seurat object and a gene-sample expression matrix as input, output a relative enrichment score of celltype identified in Seurat in mixture sample.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: Seurat, dplyr, e1071, xgboost
+NeedsCompilation: no
+Packaged: 2021-11-03 14:57:34 UTC; 28123
+Depends: R (>= 3.5.0)
+Built: R 4.0.4; ; 2021-11-03 14:59:06 UTC; windows

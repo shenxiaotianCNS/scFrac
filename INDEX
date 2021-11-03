@@ -1,0 +1,11 @@
+CoreAlg_svr             the core function to run the SVR deconvulation
+                        of mixed matrix,export the coef w of SVR
+Seutodat                this is a pre-process function to intersect the
+                        shared genes, normalized the input mixture
+                        matrix,Y and the single cell marker gene
+                        matrix,Y
+preproce                this is a pre-process function to intersect the
+                        shared genes, normalized the input mixture
+                        matrix,Y and the single cell marker gene
+                        matrix,Y
+scfrac                  run the scFrac process
